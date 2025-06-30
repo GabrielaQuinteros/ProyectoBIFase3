@@ -1,0 +1,21 @@
+ID_SUCURSAL,Nombre,Ciudad,Region
+S001,Sucursal 1,Baleares,Centro
+S002,Sucursal 2,Ceuta,Paracentral
+S003,Sucursal 3,Asturias,Centro
+S004,Sucursal 4,La Rioja,Centro
+S005,Sucursal 5,Cáceres,Oriente
+S006,Sucursal 6,Cáceres,Centro
+S007,Sucursal 7,Ciudad,Paracentral
+S008,Sucursal 8,Castellón,Occidente
+S009,Sucursal 9,Guipúzcoa,Paracentral
+S010,Sucursal 10,León,Paracentral
+S011,Sucursal 11,Castellón,Centro
+S012,Sucursal 12,Granada,Paracentral
+S013,Sucursal 13,Pontevedra,Centro
+S014,Sucursal 14,Álava,Oriente
+S015,Sucursal 15,Teruel,Centro
+S016,Sucursal 16,Pontevedra,Oriente
+S017,Sucursal 17,Barcelona,Occidente
+S018,Sucursal 18,Salamanca,Paracentral
+S019,Sucursal 19,Cantabria,Oriente
+S020,Sucursal 20,Barcelona,Occidente
