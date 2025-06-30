@@ -1,0 +1,1001 @@
+ID_CLIENTE,Nombre,Genero,Edad,Ciudad,Segmento
+C00001,Beatriz Silva Segura,Masculino,56,Valencia,A
+C00002,Chus Enrique Vall Niño,Masculino,69,Cuenca,B
+C00003,Paulina Cerro Beltrán,Femenino,46,Melilla,A
+C00004,Iker Garay Alcalá,Masculino,32,Pontevedra,A
+C00005,Ezequiel Estévez-Español,Masculino,60,Murcia,C
+C00006,Emma Lumbreras González,Masculino,25,Pontevedra,B
+C00007,Josefa de Sola,Masculino,38,Ciudad,B
+C00008,Benito Sanmiguel Salvador,Masculino,56,León,B
+C00009,Andrés Castro Gonzalez,Femenino,36,Zamora,A
+C00010,Domingo Marcial Aguiló Vergara,Masculino,40,Navarra,B
+C00011,Eladio Moliner Belmonte,Masculino,28,Salamanca,B
+C00012,Marcio Vazquez Camps,Masculino,28,Pontevedra,B
+C00013,Isidoro del Miró,Masculino,41,Cantabria,C
+C00014,Leoncio Plaza Viña,Masculino,53,Tarragona,B
+C00015,Gloria Coloma Ramis,Masculino,57,Ourense,A
+C00016,Mariano Francisco Jose Correa Pavón,Masculino,41,Ávila,C
+C00017,Rubén Figueroa Morante,Femenino,20,León,B
+C00018,Magdalena Casas Hervia,Masculino,39,León,B
+C00019,Sara Acero Barrio,Femenino,19,Vizcaya,C
+C00020,Jeremías Amaya Izaguirre,Femenino,41,Tarragona,B
+C00021,Candelario Bru Blasco,Masculino,61,Huesca,A
+C00022,Ruth Hervás Bolaños,Masculino,47,Asturias,A
+C00023,Ángeles Velázquez Molina,Femenino,55,Ávila,B
+C00024,Julia Pintor Córdoba,Femenino,19,Sevilla,A
+C00025,José Ángel de Bayo,Femenino,38,Murcia,C
+C00026,Aurelia Castellanos Tena,Masculino,50,Teruel,B
+C00027,Octavia Miralles Guijarro,Masculino,29,Lugo,C
+C00028,Aníbal Garcia Cabanillas,Femenino,39,Vizcaya,A
+C00029,Julio Saura Busquets,Masculino,61,Ciudad,B
+C00030,Teobaldo de Rey,Masculino,42,León,C
+C00031,Aránzazu de Mariño,Femenino,66,Málaga,A
+C00032,Judith Molina Escudero,Masculino,44,Melilla,B
+C00033,Olga Ema Alba Moya,Femenino,59,Guadalajara,D
+C00034,Dafne Rincón Benet,Femenino,45,Santa Cruz de Tenerife,A
+C00035,Cirino Salgado Pujadas,Femenino,33,Teruel,A
+C00036,Demetrio Sánchez Portillo,Masculino,32,Madrid,D
+C00037,Aurora de Múgica,Femenino,64,Pontevedra,D
+C00038,Pepita Arregui Cañas,Masculino,68,Ourense,C
+C00039,Natalia Quiroga Vigil,Femenino,61,Ávila,A
+C00040,Álvaro Planas Ballesteros,Masculino,69,Albacete,D
+C00041,Evaristo Bonet Gil,Femenino,20,Guadalajara,B
+C00042,Vicenta Higueras,Femenino,54,Melilla,A
+C00043,Lola Abascal Vilanova,Masculino,68,Burgos,C
+C00044,Nicolás Palmer,Masculino,24,Sevilla,D
+C00045,Nidia Conde Nieto,Masculino,38,Las Palmas,A
+C00046,Cosme Huguet Pedrero,Masculino,26,Soria,A
+C00047,Mónica Catalán,Femenino,56,Castellón,D
+C00048,Ulises Royo Benavent,Masculino,35,Alicante,D
+C00049,Roberta Castilla Clemente,Masculino,21,Madrid,D
+C00050,Jessica del Alfonso,Masculino,42,Soria,A
+C00051,Cruz Lledó Alegre,Femenino,31,Cuenca,D
+C00052,María Fernanda Linares Pérez,Femenino,67,León,D
+C00053,Cayetana Montoya-Noguera,Femenino,26,Lleida,A
+C00054,María Belén Romero Gonzalez,Femenino,43,Cáceres,A
+C00055,Melisa Ferrero Luz,Masculino,19,Las Palmas,C
+C00056,José Antonio Llorente Pizarro,Femenino,37,Almería,B
+C00057,Margarita Rojas Mosquera,Femenino,45,Barcelona,A
+C00058,Benjamín del Garcés,Masculino,64,Almería,B
+C00059,Amaya Juliá-Miguel,Femenino,24,Sevilla,C
+C00060,Jaime Cabañas Luján,Masculino,61,Tarragona,C
+C00061,Jordán Crespo Villegas,Masculino,25,Almería,D
+C00062,Baltasar Madrid-Gilabert,Masculino,64,Salamanca,C
+C00063,Amílcar Hervás Sola,Masculino,52,Castellón,D
+C00064,Ricarda Villalba Luján,Femenino,31,Barcelona,D
+C00065,Óscar Hervás Crespi,Femenino,34,Teruel,A
+C00066,Paulina Caro-Valentín,Femenino,53,Badajoz,A
+C00067,Nuria Amat Arrieta,Masculino,67,Cáceres,B
+C00068,Celestina Arribas Armengol,Femenino,57,Segovia,D
+C00069,Timoteo Salvà Portero,Masculino,21,Ciudad,D
+C00070,Rosenda Segovia,Masculino,19,Palencia,B
+C00071,Gracia Manzano Planas,Masculino,23,Valladolid,D
+C00072,Micaela Vicens-Boix,Femenino,59,Las Palmas,C
+C00073,Priscila Joaquina Abella Armengol,Femenino,21,Pontevedra,D
+C00074,Esperanza José Pulido Garmendia,Femenino,46,Teruel,D
+C00075,Aristides Vall-Suarez,Masculino,35,Lugo,D
+C00076,Elisa Francisco Bru,Masculino,43,Jaén,A
+C00077,Héctor Fabricio Márquez Grande,Femenino,61,Badajoz,C
+C00078,Montserrat Olivares-Cañellas,Masculino,51,Almería,D
+C00079,María Manuela Gras Arnal,Femenino,27,Valladolid,C
+C00080,Saturnino Peña Almazán,Femenino,53,Almería,C
+C00081,Ciro del Bou,Femenino,31,Toledo,C
+C00082,Jimena Araceli Ballesteros Oliva,Masculino,48,Melilla,B
+C00083,Luís Recio Salas,Femenino,65,Cantabria,D
+C00084,Hugo Cobo-Goicoechea,Masculino,32,Toledo,A
+C00085,Paloma Goicoechea Ayuso,Masculino,25,Valladolid,A
+C00086,Jeremías Martínez Carranza,Femenino,31,La Rioja,A
+C00087,Daniel del Adadia,Femenino,40,Lugo,A
+C00088,Remigio Valenzuela Vilalta,Femenino,57,Ávila,D
+C00089,Marciano Alegre-Bonet,Femenino,38,Alicante,A
+C00090,Martirio Verdejo,Masculino,33,Jaén,C
+C00091,Aránzazu del Cabo,Masculino,62,Ciudad,B
+C00092,Manuelita Verónica Garriga Fuente,Femenino,35,Guipúzcoa,A
+C00093,Yéssica Garzón Rozas,Masculino,64,Sevilla,C
+C00094,Pía Llobet Estrada,Masculino,41,Burgos,A
+C00095,Yago Cadenas,Masculino,43,Toledo,D
+C00096,Lupita Hervás Agustí,Masculino,42,Albacete,C
+C00097,Alma Juan Saura,Masculino,62,León,D
+C00098,Natalio Coloma Gutierrez,Femenino,58,Córdoba,A
+C00099,Quique Verdú,Masculino,46,Granada,C
+C00100,Alfonso Vallés-Ordóñez,Femenino,32,Barcelona,C
+C00101,Berta Muñoz Guerra,Femenino,62,Castellón,C
+C00102,Anita Yáñez,Femenino,18,La Rioja,A
+C00103,Demetrio Carnero Corbacho,Femenino,42,Toledo,B
+C00104,Bernarda Gloria Carballo Guerrero,Masculino,24,Salamanca,B
+C00105,Lucila del Pujol,Masculino,26,Málaga,D
+C00106,Ambrosio Peñas Castellanos,Femenino,41,Zaragoza,B
+C00107,Venceslás Ramón-Echevarría,Femenino,18,Lugo,A
+C00108,Olga Tur Berrocal,Masculino,61,Madrid,C
+C00109,Alberto de Bartolomé,Femenino,25,Albacete,C
+C00110,Renato Piñol Infante,Femenino,41,Tarragona,A
+C00111,Jenny Criado Reyes,Masculino,28,Huelva,C
+C00112,Eugenio Fiol-Benavente,Femenino,68,Huelva,B
+C00113,Estrella Arco Ros,Masculino,34,Santa Cruz de Tenerife,D
+C00114,Anselmo Castilla Cobos,Femenino,25,Ávila,A
+C00115,Ildefonso Falcó Perera,Masculino,52,Soria,C
+C00116,Dulce Vallés Tomas,Masculino,52,Melilla,A
+C00117,Chucho Jara Ramón,Femenino,50,Navarra,B
+C00118,Severo de Prado,Masculino,22,La Rioja,C
+C00119,Cloe María Teresa Barbero Moreno,Masculino,59,Álava,C
+C00120,José Manuel Espinosa Medina,Femenino,56,Zamora,C
+C00121,Maura Real Marin,Masculino,58,Baleares,C
+C00122,Juanita Pedrero Silva,Masculino,45,Tarragona,A
+C00123,Onofre Céspedes Carmona,Femenino,24,Albacete,B
+C00124,Eutropio Amores Castañeda,Femenino,26,Jaén,B
+C00125,Carmela Reina Suárez Salvador,Masculino,25,Guadalajara,D
+C00126,Florencia Pastor,Masculino,29,Barcelona,A
+C00127,Marisol Rocha Cárdenas,Femenino,51,Ávila,B
+C00128,Zoraida Pol Barragán,Femenino,50,Las Palmas,A
+C00129,Luís Serra Bejarano,Masculino,65,Cáceres,A
+C00130,Martín Salinas Coello,Masculino,40,Alicante,B
+C00131,Eusebio Alberto Montesinos,Masculino,41,Palencia,D
+C00132,Rocío Lluch Blasco,Masculino,54,Baleares,D
+C00133,Plinio Atienza Miranda,Masculino,52,Barcelona,D
+C00134,Luís Montaña-Baró,Femenino,61,Ceuta,C
+C00135,Cleto Duran Samper,Masculino,57,Ourense,B
+C00136,Clemente Cordero Jódar,Masculino,39,Soria,C
+C00137,Ximena Blanca Doménech,Masculino,44,Las Palmas,C
+C00138,Macarena Llano Márquez,Femenino,52,Valladolid,C
+C00139,Loreto Carro-Arnal,Masculino,18,Salamanca,A
+C00140,Graciana Zurita Carretero,Femenino,52,Segovia,A
+C00141,Natalio Montserrat,Femenino,54,Granada,B
+C00142,Íngrid Gema Solano Aramburu,Masculino,64,La Coruña,B
+C00143,Nicodemo Castilla Ramos,Masculino,31,Toledo,A
+C00144,Nadia Cantón Arteaga,Femenino,20,Ávila,A
+C00145,Sandalio Morcillo-Gilabert,Femenino,18,Sevilla,C
+C00146,Casemiro Mármol,Femenino,22,Cuenca,D
+C00147,Leire de Aguilera,Femenino,43,Cuenca,D
+C00148,Yolanda Tomé-Buendía,Femenino,31,Jaén,D
+C00149,Judith Catalán Gárate,Masculino,56,Ciudad,D
+C00150,Alejandro Alcaraz,Masculino,44,Ciudad,D
+C00151,Amado de Miguel,Masculino,26,Toledo,C
+C00152,Encarna Lerma,Masculino,32,Lleida,B
+C00153,Bartolomé Mancebo Palomo,Femenino,32,Las Palmas,A
+C00154,Sara Plana Noriega,Masculino,43,Guipúzcoa,C
+C00155,Eleuterio Parejo-Vicens,Masculino,59,Córdoba,D
+C00156,Agustina Pujadas Sanabria,Masculino,30,León,A
+C00157,Hernando Pizarro Castrillo,Masculino,68,Valencia,C
+C00158,Brígida Navarro Hervia,Masculino,49,Jaén,D
+C00159,Salomón Méndez Juan,Masculino,56,Burgos,C
+C00160,Jerónimo de Garay,Masculino,66,Huelva,A
+C00161,Natanael Ramis Carranza,Masculino,69,Soria,B
+C00162,Berto Pozuelo-Rico,Masculino,49,Córdoba,D
+C00163,Gregorio Cánovas Hervia,Femenino,21,Pontevedra,A
+C00164,Samuel Matas Borrás,Masculino,47,Álava,A
+C00165,Haroldo Valls Requena,Masculino,54,Cuenca,B
+C00166,Antonio Hermenegildo Vilar Ruiz,Femenino,40,Tarragona,C
+C00167,Daniel Ibarra Hernandez,Femenino,56,Madrid,B
+C00168,Anunciación Macarena Cárdenas Rosselló,Masculino,62,Córdoba,B
+C00169,Segismundo Calderón Donaire,Masculino,32,Cáceres,C
+C00170,Leandro Ugarte Bosch,Femenino,60,Pontevedra,C
+C00171,Armida Aroca Fabregat,Masculino,46,Valladolid,C
+C00172,Simón Ballesteros Varela,Femenino,53,Valladolid,A
+C00173,Marisol Silvia Pagès Maestre,Femenino,30,Valencia,A
+C00174,Pascual Pazos Segovia,Masculino,49,Girona,D
+C00175,Prudencio de Diez,Masculino,24,León,D
+C00176,Pacífica Gilabert Morata,Masculino,68,Álava,B
+C00177,Ascensión Navarrete Gámez,Femenino,39,Sevilla,B
+C00178,Guiomar Roma Riquelme,Femenino,45,Málaga,D
+C00179,María José Calatayud Girón,Femenino,19,Teruel,B
+C00180,Adoración Francisco Mendizábal,Femenino,59,Albacete,C
+C00181,Sonia Alberdi Bermúdez,Femenino,62,Castellón,A
+C00182,Cayetana Sanmiguel Cruz,Masculino,23,Burgos,D
+C00183,Ramona Abellán-Aguilera,Masculino,45,Álava,A
+C00184,Mar Ibañez,Masculino,45,Ávila,D
+C00185,Lupita Bayona Ródenas,Femenino,61,Toledo,A
+C00186,Florentino Armengol Fajardo,Femenino,61,Jaén,D
+C00187,Salvador Izaguirre-Solsona,Masculino,37,Castellón,A
+C00188,Mireia Sandra Cabeza Artigas,Masculino,47,Lleida,C
+C00189,Elba Silvia Teruel Barreda,Masculino,28,Guadalajara,D
+C00190,Primitiva Donoso Sánchez,Masculino,45,Burgos,D
+C00191,Guiomar Sans Talavera,Femenino,42,Sevilla,D
+C00192,Guadalupe Merino Cid,Masculino,56,Las Palmas,C
+C00193,Marcelino Flores Beltrán,Femenino,50,Vizcaya,A
+C00194,Josefa Solana Nuñez,Masculino,18,Madrid,D
+C00195,Benigna Arjona-Macías,Femenino,44,Burgos,A
+C00196,Aristides Castejón Soto,Femenino,69,Santa Cruz de Tenerife,C
+C00197,Ruth del Hernando,Masculino,30,Málaga,B
+C00198,Belen Roberta Garriga Mateu,Masculino,58,Ourense,D
+C00199,Cándido Luís Ortuño,Femenino,20,Guipúzcoa,C
+C00200,Aníbal del Ariño,Masculino,56,Cuenca,A
+C00201,Artemio Avilés Morillo,Masculino,23,Alicante,D
+C00202,Gustavo Santamaría Roldan,Masculino,25,Santa Cruz de Tenerife,A
+C00203,Basilio Zabala Comas,Masculino,44,Navarra,B
+C00204,Clarisa Crespo Gabaldón,Masculino,26,Ourense,D
+C00205,María Dolores Mateos Rodrigo,Masculino,54,Cantabria,D
+C00206,Jaime Aguilar Villalobos,Femenino,50,La Coruña,A
+C00207,Claudia Barrios Romeu,Femenino,68,Asturias,D
+C00208,Javi Jimenez Valencia,Femenino,59,Murcia,C
+C00209,Paz Tomé Rubio,Masculino,61,Soria,C
+C00210,Ovidio Lobo Martí,Femenino,41,Almería,B
+C00211,Diego Torre Báez,Masculino,32,Albacete,C
+C00212,Isidoro Otero,Masculino,49,Melilla,B
+C00213,Calixta Ferrando Tejada,Femenino,49,Baleares,A
+C00214,Ramiro Peláez Roselló,Masculino,41,Girona,A
+C00215,Josefa Emiliana Belda Abad,Femenino,58,La Rioja,B
+C00216,Viviana Romero Baños,Femenino,69,Lugo,C
+C00217,Yéssica Sobrino Uribe,Femenino,66,Albacete,C
+C00218,Fabio Perelló Piñol,Femenino,66,Vizcaya,B
+C00219,Amancio Morillo Gálvez,Femenino,69,Córdoba,B
+C00220,Fabián de Ripoll,Femenino,29,Pontevedra,A
+C00221,Jesusa Carranza,Masculino,56,Huelva,B
+C00222,Chelo Rosales Quevedo,Masculino,19,Álava,C
+C00223,Máximo Alcázar,Femenino,20,La Coruña,B
+C00224,Perlita Dorita Aragonés Mulet,Masculino,66,Baleares,B
+C00225,Claudio Pallarès Salamanca,Masculino,54,Ávila,B
+C00226,Antonia Gras Gimenez,Masculino,66,Albacete,A
+C00227,Sabas Valcárcel Águila,Femenino,34,Jaén,B
+C00228,Luis Ángel Bejarano Coronado,Masculino,66,Zaragoza,D
+C00229,Alfonso Casares-Goñi,Masculino,19,Albacete,D
+C00230,Américo Torralba Rosell,Femenino,19,Burgos,D
+C00231,Natalio Sebastián Martí Guzman,Masculino,45,Madrid,C
+C00232,Telmo Barba Riba,Masculino,40,Burgos,C
+C00233,Jordi Roig Llopis,Masculino,54,Valladolid,B
+C00234,Raúl Echevarría Donaire,Masculino,49,Murcia,D
+C00235,Marina Carpio,Masculino,50,Valencia,A
+C00236,Samanta de Mateos,Masculino,18,Melilla,D
+C00237,María Ángeles Roldan-Cárdenas,Masculino,36,Ávila,D
+C00238,Benito Morcillo Cal,Femenino,19,Las Palmas,C
+C00239,Sosimo Perelló-Cardona,Masculino,61,Baleares,C
+C00240,Valentín de Pozo,Masculino,43,Lleida,A
+C00241,Hugo Vizcaíno Abad,Masculino,49,Madrid,C
+C00242,Fermín Antúnez,Masculino,23,Albacete,A
+C00243,Charo Castro-Cabanillas,Femenino,49,Valencia,C
+C00244,Leire Checa Machado,Femenino,21,Álava,D
+C00245,Patricio Barragán-Cánovas,Femenino,28,Valencia,D
+C00246,Rolando Egea Bueno,Masculino,34,Pontevedra,A
+C00247,Pascuala Gargallo,Femenino,55,Badajoz,A
+C00248,Jose Miguel Viñas Linares,Masculino,41,Melilla,C
+C00249,Delia Ramirez Pelayo,Femenino,22,Tarragona,C
+C00250,Florencio Bonet Soler,Femenino,69,Ávila,A
+C00251,Severino Madrigal,Masculino,51,Alicante,A
+C00252,Darío Diéguez Alvarado,Femenino,23,Lugo,D
+C00253,Consuela Marianela Pellicer Marin,Femenino,39,Alicante,D
+C00254,Mauricio Carnero Porras,Femenino,28,Castellón,A
+C00255,Mirta Fábregas Olivera,Masculino,65,Palencia,D
+C00256,Cristóbal Carrión Planas,Masculino,33,Ciudad,B
+C00257,Maite Molina Belda,Femenino,50,Girona,C
+C00258,Rolando Bernat,Masculino,26,Ourense,D
+C00259,Íñigo Gonzalo Nicolás,Masculino,23,Valladolid,B
+C00260,Anselma Acedo,Masculino,33,Madrid,A
+C00261,Buenaventura Alarcón León,Femenino,46,La Rioja,D
+C00262,Román Bautista Pazos,Masculino,20,Guadalajara,A
+C00263,Darío Jove Gómez,Femenino,37,Tarragona,C
+C00264,Ezequiel Zamorano Bustos,Masculino,53,La Coruña,A
+C00265,Jordán Nogués Suárez,Masculino,36,Lleida,B
+C00266,Cintia del Riba,Femenino,43,Ceuta,A
+C00267,Aura Poza-Seguí,Femenino,20,Barcelona,B
+C00268,Leire Guardia-Amaya,Masculino,36,Las Palmas,D
+C00269,Griselda Gaya Checa,Femenino,37,Cuenca,D
+C00270,Estrella Jimenez Pinedo,Femenino,49,Teruel,B
+C00271,Epifanio Cervantes Girona,Masculino,24,Jaén,C
+C00272,Régulo Sierra-Isern,Femenino,69,Teruel,C
+C00273,Maxi Estrella Cañizares Llamas,Masculino,58,Santa Cruz de Tenerife,C
+C00274,Belen Sandoval León,Masculino,50,Soria,D
+C00275,Demetrio Fiol Vara,Femenino,57,Guipúzcoa,D
+C00276,Marcelino Carreño Barrena,Masculino,56,Córdoba,C
+C00277,Urbano Tudela Arévalo,Masculino,35,Navarra,A
+C00278,Ana Belén Oriana Serna Manso,Masculino,57,Cuenca,C
+C00279,Feliciano Espada,Femenino,18,Cáceres,A
+C00280,Carmelita Catalina Gibert Iniesta,Femenino,28,Valladolid,C
+C00281,Bautista Hervia Carlos,Masculino,45,Huelva,A
+C00282,Esther Pol Ramírez,Femenino,42,Málaga,D
+C00283,Reinaldo Calleja,Masculino,67,Navarra,C
+C00284,Socorro Tamayo Coll,Femenino,40,Sevilla,C
+C00285,Tania Ramona Morante Vega,Femenino,48,Baleares,B
+C00286,Ildefonso Ayala Boix,Femenino,47,Baleares,C
+C00287,Clemente Gibert,Masculino,59,Murcia,A
+C00288,Celestino Bayón Salas,Masculino,52,Santa Cruz de Tenerife,B
+C00289,Clemente Sanz,Femenino,24,Valencia,C
+C00290,Florina Iglesia Ruano,Femenino,33,Málaga,C
+C00291,Hector Isern Villena,Masculino,43,Barcelona,D
+C00292,Adelia Gomis Belda,Masculino,65,Zamora,B
+C00293,Florencio Emiliano Paniagua Casals,Femenino,69,Álava,A
+C00294,Nico Cabo Alberto,Masculino,66,Huesca,C
+C00295,Emma del Benítez,Femenino,19,Tarragona,D
+C00296,Regina Sarmiento Amo,Masculino,18,Navarra,C
+C00297,Juan Madrigal-Pulido,Femenino,65,Lleida,B
+C00298,Manuelita Alfonso Cervera,Femenino,29,Santa Cruz de Tenerife,A
+C00299,Ceferino Bauzà Herranz,Masculino,22,Guadalajara,D
+C00300,Valentín Cabeza,Masculino,54,Barcelona,C
+C00301,Armando Checa Santamaría,Masculino,49,Lugo,A
+C00302,René Llabrés Morante,Masculino,26,Álava,C
+C00303,Edgardo Tomás Díez,Masculino,58,Valencia,C
+C00304,Graciela del Berrocal,Femenino,52,Melilla,B
+C00305,Francisco Jose Fernandez Naranjo,Masculino,36,Huelva,B
+C00306,Cipriano Galván Domingo,Femenino,65,Baleares,C
+C00307,Perlita Diez-Tamarit,Masculino,33,Girona,D
+C00308,Cayetana Contreras-Torre,Masculino,20,Las Palmas,B
+C00309,Ligia Tenorio Padilla,Femenino,37,León,B
+C00310,Mariano Valencia Río,Femenino,41,Melilla,B
+C00311,Plinio Carlito Barrio Aguirre,Masculino,50,Valladolid,B
+C00312,Jose Miguel Pi Paredes,Femenino,41,Pontevedra,A
+C00313,Germán de Jordá,Masculino,69,Zamora,C
+C00314,Rubén Perales,Masculino,28,Cádiz,A
+C00315,Saturnino del Bernat,Masculino,66,Cuenca,A
+C00316,Anselma Tormo Fajardo,Femenino,25,Zaragoza,C
+C00317,Griselda Gil Mendoza,Femenino,53,Ávila,B
+C00318,Felix Aguilar Querol,Masculino,55,Murcia,D
+C00319,Lucila Melisa Castejón Lluch,Masculino,57,Ciudad,B
+C00320,Samuel Esteve Perales,Masculino,37,Sevilla,B
+C00321,Verónica Azahar Carbonell Cámara,Masculino,52,Salamanca,B
+C00322,Nieves Delgado Benavent,Femenino,65,Murcia,B
+C00323,Maristela Enríquez Cerdán,Masculino,42,Huesca,D
+C00324,Candelario Ruiz-Guijarro,Masculino,52,Jaén,A
+C00325,Joel Cuervo Alonso,Femenino,42,Vizcaya,D
+C00326,Micaela Girón Carbó,Femenino,46,Ciudad,C
+C00327,Belén Perelló Gallego,Masculino,35,Lleida,B
+C00328,Lupe del Comas,Femenino,63,Zaragoza,D
+C00329,Cristian Gelabert Feijoo,Masculino,35,Huelva,C
+C00330,Bibiana Teófila Redondo Piña,Masculino,19,Sevilla,D
+C00331,Joaquín Julián Ribas,Femenino,52,Lleida,B
+C00332,Vinicio Seco Mármol,Masculino,33,Córdoba,B
+C00333,Georgina Noa Cortina Macias,Femenino,58,Lugo,C
+C00334,Rocío Yuste Cabezas,Masculino,53,La Rioja,D
+C00335,Saturnino Márquez Peinado,Masculino,50,Málaga,B
+C00336,Fidel Nando Cornejo Aguilera,Femenino,21,Navarra,C
+C00337,Gervasio Busquets Giner,Femenino,50,Soria,D
+C00338,Jacinta Larrañaga Ferrero,Femenino,31,Córdoba,D
+C00339,Cecilio Giner,Masculino,38,Santa Cruz de Tenerife,C
+C00340,Mohamed Benavente Ponce,Masculino,65,Albacete,D
+C00341,Juanita Daza Lago,Masculino,37,Navarra,D
+C00342,Magdalena Bernarda Baeza Merino,Masculino,25,Santa Cruz de Tenerife,B
+C00343,Roque de Zabaleta,Femenino,24,Málaga,B
+C00344,Ignacio Parejo Leon,Femenino,20,Lleida,B
+C00345,Dionisio Evaristo Tirado Montero,Femenino,34,Valencia,C
+C00346,Maxi de Sancho,Masculino,50,Murcia,A
+C00347,Gertrudis Valero Arnal,Femenino,65,Albacete,D
+C00348,Noemí Caridad Rozas Verdejo,Femenino,29,Jaén,C
+C00349,Borja Sainz,Femenino,68,Zaragoza,A
+C00350,Marcos Pazos Ferrándiz,Femenino,39,Valladolid,A
+C00351,Socorro Marí Armas,Masculino,39,Albacete,C
+C00352,Pánfilo Urrutia Oliva,Masculino,63,Málaga,A
+C00353,Miguela Amorós Llobet,Femenino,47,Álava,B
+C00354,Chema Gimenez Falcón,Masculino,55,Santa Cruz de Tenerife,C
+C00355,Berta Ferreras Marco,Femenino,55,Sevilla,D
+C00356,Sonia Jordán,Masculino,62,Barcelona,B
+C00357,Teresita Casanova Lluch,Masculino,68,Córdoba,D
+C00358,Maite Badía Llorens,Femenino,25,Cádiz,A
+C00359,Danilo Gálvez Badía,Femenino,44,Toledo,B
+C00360,Tania Pulido Mulet,Femenino,44,Cáceres,D
+C00361,Cayetano de Montaña,Femenino,51,Salamanca,C
+C00362,Brígida Fábregas Castilla,Masculino,38,Huelva,A
+C00363,Pascuala Tenorio Posada,Femenino,47,Santa Cruz de Tenerife,D
+C00364,Aurora Pombo Menéndez,Masculino,50,Ceuta,A
+C00365,Emilia Méndez Elorza,Femenino,45,Valencia,D
+C00366,Ramiro Tomás-Salvà,Masculino,64,Albacete,C
+C00367,Julián Ocaña-Gargallo,Femenino,50,Lugo,B
+C00368,Lisandro Pizarro Somoza,Masculino,22,Córdoba,D
+C00369,Ignacio Villar Gilabert,Masculino,65,Girona,A
+C00370,Concepción de Planas,Femenino,36,La Rioja,C
+C00371,Toño Rosa Urrutia,Femenino,21,Valladolid,B
+C00372,Juanita Sancho Llopis,Masculino,52,Soria,A
+C00373,Alfonso Vilar,Femenino,66,Ceuta,C
+C00374,Rosendo Mayoral Somoza,Femenino,34,Zamora,A
+C00375,Raquel Suárez Morán,Masculino,61,Huelva,C
+C00376,Imelda Asenjo Aguirre,Femenino,45,Zamora,B
+C00377,Flavia Nebot-Coll,Femenino,47,Burgos,B
+C00378,Gloria Ayllón Linares,Femenino,46,Melilla,A
+C00379,Salomón Neira Herrera,Femenino,63,Madrid,C
+C00380,Adelaida Piedad Huertas Valcárcel,Femenino,23,Albacete,D
+C00381,Laura Ariño Tudela,Femenino,52,Asturias,B
+C00382,Nazaret Marin-Mendoza,Masculino,58,Castellón,D
+C00383,Clotilde Gonzalez Carvajal,Masculino,54,Lleida,D
+C00384,Casandra Bello Plana,Femenino,41,Burgos,A
+C00385,Florina Tecla Carranza Flores,Femenino,46,Ourense,A
+C00386,Guillermo Abad Ferrando,Masculino,66,Navarra,A
+C00387,Eloy Gaspar Armas Gallego,Femenino,63,Guipúzcoa,C
+C00388,Adora Estévez Saura,Femenino,48,Salamanca,B
+C00389,Fausto Cáceres Jara,Masculino,52,Cáceres,B
+C00390,Blas Múgica Luís,Femenino,50,Sevilla,D
+C00391,Adriana Linares Lillo,Femenino,69,Pontevedra,A
+C00392,Isidoro Valenzuela-Antúnez,Masculino,38,Ourense,C
+C00393,Wilfredo Enríquez Fiol,Femenino,49,Almería,B
+C00394,Bernabé Pozo Villalonga,Femenino,40,La Coruña,C
+C00395,Clarisa Garcés Casares,Femenino,50,Teruel,A
+C00396,Cebrián Gonzalo Mur,Femenino,20,Lleida,A
+C00397,Aránzazu Dafne Jódar Giner,Femenino,35,Ceuta,B
+C00398,Angélica Galván Barral,Masculino,42,Huesca,D
+C00399,Ximena Sola Moreno,Femenino,59,Baleares,D
+C00400,Viviana Arcos-Salvà,Masculino,48,Santa Cruz de Tenerife,A
+C00401,Cristian Cid,Masculino,20,Asturias,A
+C00402,Eustaquio Armengol Cabeza,Femenino,57,Cádiz,D
+C00403,Susana Novoa Tudela,Femenino,63,Toledo,A
+C00404,Inés Arregui,Masculino,41,Baleares,B
+C00405,Carlos Acuña Jurado,Masculino,67,Madrid,B
+C00406,Pía Mínguez Canet,Femenino,49,Alicante,C
+C00407,Manola Hervia,Masculino,64,Ceuta,D
+C00408,Albano Celso Rivas Ortuño,Masculino,39,Palencia,A
+C00409,Juan José Aranda-Luís,Masculino,40,Asturias,C
+C00410,Casandra Melero-Prieto,Masculino,19,Ciudad,B
+C00411,Julia Miró-Aller,Masculino,44,Baleares,D
+C00412,Rómulo Vega,Masculino,59,Almería,B
+C00413,Adrián Llorens Chaves,Femenino,19,Cáceres,A
+C00414,Curro Nicolás Iniesta,Masculino,43,Ceuta,C
+C00415,Elodia Palomar Villegas,Femenino,34,Guipúzcoa,A
+C00416,Ignacio Velázquez Aragón,Femenino,57,Baleares,A
+C00417,Paula Hidalgo Torralba,Masculino,50,Valladolid,D
+C00418,Tania Villar Belda,Femenino,26,Asturias,D
+C00419,Leonor Colomer Ferrán,Femenino,60,Melilla,A
+C00420,Ana Alegria Valenzuela,Femenino,65,Lugo,D
+C00421,Gerardo Valenciano Angulo,Masculino,56,Asturias,C
+C00422,Rafaela Ribas Sánchez,Masculino,46,Málaga,C
+C00423,Celia Montesinos-Dávila,Masculino,59,Málaga,A
+C00424,Camila Uría Peláez,Masculino,43,Zaragoza,C
+C00425,Danilo Arjona Torrens,Femenino,52,Valladolid,A
+C00426,Almudena Morante Bonet,Masculino,67,Ourense,C
+C00427,Elodia Carnero García,Masculino,42,Segovia,B
+C00428,Miguela Tejero,Femenino,41,La Rioja,A
+C00429,Bernabé Ojeda Piquer,Masculino,30,Ceuta,C
+C00430,Ceferino Vila,Masculino,24,Ciudad,B
+C00431,Áurea Hervás,Masculino,53,Ourense,A
+C00432,Ruth Gracia Galan,Femenino,62,Melilla,C
+C00433,Marta Leocadia Alvarez Crespi,Masculino,37,León,C
+C00434,Encarna Serrano Cabo,Femenino,18,Valencia,B
+C00435,Martirio Mínguez-Elorza,Femenino,25,Salamanca,D
+C00436,Bartolomé Pallarès,Femenino,63,Tarragona,D
+C00437,Charo Coll Farré,Femenino,33,Salamanca,B
+C00438,Eduardo Guardiola Cal,Femenino,31,Huesca,B
+C00439,Celestino Valero Paniagua Reig,Masculino,29,Navarra,A
+C00440,Yésica Moreno,Femenino,68,La Rioja,D
+C00441,Héctor Cánovas-Arribas,Femenino,40,Tarragona,A
+C00442,Isaías Carbajo-Rios,Femenino,32,La Rioja,C
+C00443,Violeta Solsona Castro,Masculino,45,Tarragona,B
+C00444,Gervasio Ramis,Femenino,51,Santa Cruz de Tenerife,A
+C00445,Vicenta Paredes Gual,Femenino,19,León,B
+C00446,Cruz Artigas-Soler,Masculino,49,Guadalajara,A
+C00447,Marc Morante Castelló,Femenino,40,Castellón,C
+C00448,Teodosio Boada Lerma,Femenino,39,Cuenca,C
+C00449,Gracia del Jordán,Masculino,68,Toledo,D
+C00450,Emiliana Daza Elías,Femenino,42,Teruel,D
+C00451,Narcisa Roman Menendez,Masculino,39,Alicante,C
+C00452,Dionisia Amat Lago,Femenino,39,Zaragoza,A
+C00453,Aurelio Geraldo Peláez Perea,Femenino,66,Huesca,B
+C00454,René Arco Iriarte,Femenino,69,Castellón,C
+C00455,Ciro Francisco Javier Lillo Arnal,Masculino,59,Huelva,C
+C00456,Ruben Múgica Osorio,Masculino,23,Burgos,A
+C00457,Flavia Real-Valderrama,Masculino,32,La Coruña,C
+C00458,Augusto Viñas Ramirez,Masculino,60,Girona,C
+C00459,Ale Mendizábal Garrido,Femenino,54,Baleares,A
+C00460,Quirino Sabas Aramburu Expósito,Masculino,50,León,C
+C00461,Segismundo Dominguez Torralba,Masculino,25,Murcia,D
+C00462,Alejandro del Ramos,Masculino,61,Lleida,D
+C00463,Ignacio Carrillo Arregui,Femenino,61,Jaén,D
+C00464,Desiderio Jáuregui Ocaña,Femenino,22,Alicante,D
+C00465,Armida Lucas Samper,Femenino,56,Baleares,C
+C00466,Alberto Codina Salgado,Femenino,21,Ávila,B
+C00467,José Luis Cuadrado Rovira,Femenino,23,Badajoz,D
+C00468,Corona Molins Taboada,Masculino,62,Lugo,D
+C00469,Gertrudis Pera Luís,Masculino,49,Almería,C
+C00470,Gerardo Vasco Ortega Parra,Femenino,69,Palencia,C
+C00471,Salomé Pelayo Huguet,Femenino,47,La Coruña,A
+C00472,Claudio Mármol Asenjo,Masculino,64,La Coruña,D
+C00473,Casemiro Tejada Bonet,Femenino,52,Guadalajara,A
+C00474,Natanael Ariño Mariscal,Femenino,57,Granada,D
+C00475,Eugenia Río Pardo,Masculino,69,Pontevedra,B
+C00476,Emperatriz Águila Marcos,Femenino,33,Lugo,C
+C00477,Silvio Soler Uribe,Femenino,30,Jaén,C
+C00478,Pascual Saez Vega,Femenino,67,Guipúzcoa,A
+C00479,Isabel Bosch Arellano,Femenino,59,Salamanca,A
+C00480,Ágata Torrecilla Gomis,Masculino,47,Cantabria,C
+C00481,Jacobo de Barriga,Femenino,36,Lleida,C
+C00482,Raimundo Alvarez-Tomás,Masculino,34,Zaragoza,C
+C00483,Teodoro Crespo-Llamas,Femenino,36,Segovia,D
+C00484,Hilario Buendía Jordá,Femenino,45,Sevilla,D
+C00485,Carmen Isaura Piña Falcón,Femenino,43,Lugo,B
+C00486,Juan José Barrios-Marqués,Masculino,54,Toledo,D
+C00487,Marc Múgica Cabezas,Femenino,43,Zaragoza,C
+C00488,Sosimo Rosendo Reyes Busquets,Femenino,40,Valladolid,D
+C00489,Belén Marina Doménech Villena,Femenino,26,Guadalajara,A
+C00490,Mirta Franco Royo,Masculino,29,Girona,C
+C00491,Ambrosio Galvez Molina,Femenino,18,Lugo,D
+C00492,Lola Busquets Corbacho,Masculino,18,Ceuta,C
+C00493,Gastón Peiró Clavero,Masculino,64,Cáceres,A
+C00494,Amador Benitez-Coello,Femenino,51,Málaga,A
+C00495,Bautista Casado Leal,Masculino,49,Almería,D
+C00496,León Montes Alegre,Masculino,65,Asturias,C
+C00497,Sebastián Riera Ferreras,Femenino,42,Soria,B
+C00498,Clemente de Villalba,Masculino,57,Albacete,A
+C00499,Juan Francisco Segismundo Exposito Fábregas,Femenino,62,Las Palmas,B
+C00500,Cleto de Casanovas,Masculino,18,Barcelona,D
+C00501,Eutimio Gisbert,Masculino,33,Córdoba,A
+C00502,Gonzalo Mínguez,Femenino,56,La Rioja,B
+C00503,Hugo Bello Jove,Femenino,22,Ávila,A
+C00504,Salomón Segura Morillo,Femenino,39,Guipúzcoa,B
+C00505,Jose Luis Beltran Valdés,Masculino,46,Baleares,C
+C00506,Rómulo Blanca Solsona,Femenino,20,León,C
+C00507,Juan Carlos Donoso Mendez,Femenino,29,Pontevedra,D
+C00508,Isabel Dueñas Plana,Femenino,43,Madrid,A
+C00509,Ana de Peiró,Femenino,33,Toledo,B
+C00510,María Luisa Velázquez Núñez,Femenino,68,Cáceres,D
+C00511,Olivia Peña,Femenino,54,Navarra,C
+C00512,Clarisa Rosselló Comas,Femenino,39,Burgos,C
+C00513,Carmela Casares Coronado,Masculino,46,Navarra,D
+C00514,Severino de Carbonell,Femenino,31,Castellón,A
+C00515,Rufina Salamanca,Masculino,45,Asturias,B
+C00516,Jose Miguel Molins-Gonzalez,Masculino,22,Zaragoza,C
+C00517,Edgardo Araujo Carbonell,Femenino,64,La Rioja,D
+C00518,Sebastian Talavera,Masculino,66,Zaragoza,C
+C00519,María Cristina del Tejera,Masculino,47,Palencia,C
+C00520,Nilda Fabregat Ayuso,Masculino,63,Ávila,B
+C00521,Armando Galiano Valle,Masculino,69,Navarra,A
+C00522,Rosenda Carranza Palacios,Masculino,22,Huelva,A
+C00523,Mireia Vallés,Masculino,29,Ciudad,B
+C00524,Teobaldo Hervia Corbacho,Masculino,33,León,D
+C00525,Eloy Real Ballester,Masculino,43,Ceuta,D
+C00526,Gustavo Bueno Hoz,Masculino,43,Melilla,A
+C00527,Agapito Sales-Cordero,Masculino,65,Badajoz,C
+C00528,Iván Viña Rodrigo,Femenino,38,Ciudad,C
+C00529,Andrés Felipe Crespo Jimenez,Masculino,56,Huesca,D
+C00530,Horacio Victor Cañizares Llabrés,Masculino,53,Barcelona,B
+C00531,David de Báez,Femenino,50,La Coruña,C
+C00532,Silvio Tejedor,Femenino,47,Melilla,D
+C00533,Tristán Mauricio Barrera Camps,Femenino,54,Ceuta,B
+C00534,Rubén Expósito Alonso,Masculino,40,Huelva,A
+C00535,Ibán Pi,Masculino,27,Tarragona,B
+C00536,Julio César Nogueira Boix,Masculino,22,Soria,A
+C00537,Dora Girón Pedrosa,Femenino,53,Córdoba,D
+C00538,Victoriano Manzano Codina,Masculino,51,Navarra,B
+C00539,Vicenta Morera Martinez,Masculino,69,Granada,D
+C00540,Martín Domínguez Fuertes,Femenino,48,La Coruña,A
+C00541,María Dolores de Juárez,Femenino,27,Alicante,C
+C00542,Zaida Barceló Palmer,Femenino,36,Murcia,C
+C00543,Candelaria Miró,Masculino,49,Murcia,A
+C00544,Apolinar Cañas Llobet,Masculino,18,Cuenca,C
+C00545,Petrona Perelló Blanca,Masculino,22,Segovia,C
+C00546,Trinidad Ramírez,Masculino,62,Ourense,B
+C00547,Lourdes Cantón Prats,Femenino,21,Lleida,B
+C00548,Paulina Cid Dueñas,Masculino,33,Lugo,C
+C00549,Julia Cuervo Hierro,Masculino,41,La Coruña,B
+C00550,Leyre Torralba-Guzman,Femenino,33,Álava,A
+C00551,Camilo Rico Arranz,Femenino,19,Girona,B
+C00552,José Luis Jordán Viña,Femenino,66,Teruel,B
+C00553,Domingo Roda Morillo,Masculino,45,Girona,B
+C00554,Jaime Pera,Femenino,49,Ávila,D
+C00555,Encarnita Chus Saldaña Tamarit,Masculino,44,Tarragona,A
+C00556,Odalis Giner,Femenino,37,Lugo,C
+C00557,Angélica Leiva Cabezas,Femenino,41,Soria,C
+C00558,Mario Pelayo Royo,Masculino,29,Santa Cruz de Tenerife,D
+C00559,Benigno de Tomas,Femenino,67,Melilla,B
+C00560,Jenaro Cabanillas-Nogués,Femenino,52,Málaga,A
+C00561,Leocadio Recio Martínez,Femenino,50,Guipúzcoa,A
+C00562,Lupe Nieto,Masculino,50,Soria,C
+C00563,Luis Miguel Sandalio Gárate Garcia,Femenino,68,Málaga,D
+C00564,Pancho Sobrino,Masculino,60,Guadalajara,D
+C00565,Luisina Torrens Tomás,Femenino,54,León,D
+C00566,Aristides Abella-Borja,Femenino,29,Cáceres,D
+C00567,Maximiliano Lladó Paz,Femenino,20,Burgos,A
+C00568,Mariano Oliveras Rebollo,Femenino,18,Cádiz,B
+C00569,Esther Valle-Goicoechea,Femenino,50,Álava,C
+C00570,Elodia Pou Cazorla,Femenino,57,Badajoz,A
+C00571,Samu Clemente Fabra,Masculino,27,Guipúzcoa,D
+C00572,Eugenio Rojas Quero,Masculino,60,Zamora,D
+C00573,Brunilda Bibiana Rivero Lobo,Femenino,61,Zaragoza,C
+C00574,Débora Goicoechea Teruel,Femenino,46,Cádiz,B
+C00575,David Chaparro Tomé,Masculino,30,Granada,B
+C00576,Nereida Blanch Leiva,Femenino,29,Baleares,B
+C00577,Lina Puente,Femenino,48,Las Palmas,D
+C00578,Pepita Isabela Sarabia Olivé,Femenino,63,Málaga,A
+C00579,Iván Casals-Rico,Masculino,19,Asturias,A
+C00580,Teo Cañellas Fuentes,Femenino,68,Valencia,B
+C00581,Miriam Cortés Suárez,Femenino,67,Lugo,C
+C00582,René Diaz Montesinos,Masculino,52,Toledo,B
+C00583,María Teresa del Camino,Femenino,40,Cádiz,B
+C00584,Francisco Javier Pascual Armas,Masculino,34,Álava,C
+C00585,Efraín Marco Solé,Femenino,43,Teruel,B
+C00586,Rufina del Páez,Femenino,25,Guipúzcoa,C
+C00587,Victorino Dalmau,Femenino,46,Barcelona,C
+C00588,José Manuel Baeza Bayona,Femenino,43,Segovia,A
+C00589,Nazario Peral Cantón,Femenino,27,Valencia,C
+C00590,Almudena Valero Quesada,Masculino,43,Toledo,B
+C00591,Godofredo Valenzuela Ortiz,Masculino,51,Toledo,C
+C00592,Aristides Perez Carbonell,Masculino,68,Tarragona,B
+C00593,Priscila Perla Amigó Manzano,Masculino,58,Ourense,C
+C00594,Carlos Páez Hernández,Femenino,24,Lugo,A
+C00595,Mario Bello,Femenino,21,Jaén,B
+C00596,Lucho Alcántara,Masculino,67,La Rioja,B
+C00597,Mario Valderrama-Ferreras,Femenino,62,Cantabria,B
+C00598,Selena del Zorrilla,Femenino,28,Cantabria,C
+C00599,Isabela Salas Folch,Femenino,46,Albacete,A
+C00600,Chuy de Salamanca,Masculino,53,Lleida,A
+C00601,Reina Ayuso Lara,Masculino,42,Murcia,A
+C00602,Julia Cal,Femenino,38,Valladolid,A
+C00603,León Giménez Gomez,Masculino,53,Cuenca,C
+C00604,Norberto Navarro Valenzuela,Femenino,27,Santa Cruz de Tenerife,B
+C00605,Paola Aliaga Jódar,Masculino,54,Castellón,D
+C00606,Teresita del Valbuena,Femenino,26,Madrid,A
+C00607,Darío Vilanova Bayón,Femenino,41,Cantabria,D
+C00608,Vidal Grau Sobrino,Femenino,52,Lugo,C
+C00609,Melania Pinedo Ropero,Femenino,66,Granada,C
+C00610,René Galan Isern,Femenino,52,Castellón,D
+C00611,Almudena Duque-Botella,Femenino,65,Barcelona,B
+C00612,Bernabé Ochoa Cifuentes,Femenino,53,Álava,D
+C00613,Salomón Mateo Galiano,Femenino,35,La Rioja,C
+C00614,Francisco Javier Agustín,Femenino,66,La Rioja,D
+C00615,Azahar Aller-Álvaro,Femenino,56,Valencia,A
+C00616,Rocío Isern Carrera,Femenino,49,Teruel,A
+C00617,Marianela Calderón Torrecilla,Masculino,41,Huesca,B
+C00618,Josué Patiño Huertas,Masculino,40,Granada,D
+C00619,Donato Ayala,Masculino,49,Melilla,D
+C00620,Fabiana Valentín,Femenino,54,Cantabria,D
+C00621,Rosalía Fuente,Masculino,29,Badajoz,D
+C00622,Benita Chita Parra Maldonado,Masculino,66,Álava,B
+C00623,Baudelio Galvez Plaza,Masculino,30,Almería,C
+C00624,Olimpia Segovia Puerta,Masculino,40,Málaga,B
+C00625,Rocío Zabaleta,Femenino,42,Zamora,C
+C00626,Begoña Cardona Castro,Femenino,52,Pontevedra,C
+C00627,Odalis Pla,Femenino,58,Huelva,C
+C00628,Antonio Alonso Martín Galindo,Masculino,47,Valladolid,D
+C00629,Macaria África Haro Español,Masculino,34,Toledo,B
+C00630,Estela Coloma Nicolás,Femenino,66,Ceuta,C
+C00631,Milagros Lucas,Masculino,37,Lugo,A
+C00632,José Antonio Ordóñez Bolaños,Femenino,65,Badajoz,C
+C00633,Ruben Nieto Serra,Masculino,42,Zamora,B
+C00634,Cecilia Palmer Borrego,Femenino,39,La Rioja,D
+C00635,José Ángel Llabrés Barrena,Masculino,30,Palencia,A
+C00636,Heraclio Benítez Carrera,Masculino,36,León,C
+C00637,Graciana Fiol Francisco,Femenino,66,Melilla,D
+C00638,Lorena Aparicio Arregui,Masculino,53,León,B
+C00639,Olga Castrillo Canales,Masculino,29,Pontevedra,B
+C00640,Marina Zurita Carrasco,Femenino,58,Burgos,A
+C00641,Mercedes Jaume Santamaria,Masculino,36,Soria,A
+C00642,Alex Gomez-Garriga,Femenino,29,Castellón,C
+C00643,Hernán Bayona-Campo,Masculino,26,Palencia,D
+C00644,Pepita Flor Viñas,Masculino,24,Zaragoza,D
+C00645,Belén Tere Busquets Montserrat,Femenino,45,Valencia,B
+C00646,Elpidio Ferrera Alcalá,Femenino,31,Lleida,B
+C00647,Loida Gaya Bustamante,Femenino,48,La Rioja,C
+C00648,Quirino Pallarès Bernat,Femenino,69,Ciudad,C
+C00649,Lupe Ropero Arenas,Femenino,36,Cuenca,B
+C00650,Leopoldo Arranz Benet,Masculino,64,Palencia,B
+C00651,Antonio Monreal Escudero,Masculino,33,Badajoz,D
+C00652,Dorita Rius Bonet,Femenino,22,Valencia,D
+C00653,Salvador Ortuño-Pera,Femenino,52,Badajoz,D
+C00654,Javier Carro,Masculino,29,Alicante,C
+C00655,Wálter Torrents Mármol,Masculino,42,Madrid,D
+C00656,Salud Sastre Mate,Femenino,69,La Rioja,A
+C00657,Olivia Vilaplana Ocaña,Femenino,38,Santa Cruz de Tenerife,A
+C00658,Emiliana Piñeiro Mulet,Masculino,53,Palencia,D
+C00659,Paz Alfaro Quevedo,Masculino,40,Zamora,D
+C00660,Sandalio de Alvarez,Masculino,33,Melilla,B
+C00661,Julio Andrés Zorrilla,Masculino,56,Castellón,B
+C00662,Pánfilo Núñez Vila,Femenino,62,Granada,C
+C00663,Palmira Buendía Montalbán,Masculino,59,Zaragoza,A
+C00664,José Ángel Acevedo Mata,Masculino,56,Albacete,A
+C00665,Victoria Guerra Castro,Masculino,31,Asturias,C
+C00666,Jose Miguel Maximiliano Solé Pina,Femenino,48,Valladolid,D
+C00667,Encarnación de Costa,Masculino,22,Guadalajara,D
+C00668,Pastora Solé Nicolau,Femenino,52,Cantabria,C
+C00669,Susanita Catalán Camino,Femenino,40,Soria,A
+C00670,Iris del Torrent,Femenino,46,Valladolid,A
+C00671,Felicidad Torres Rosselló,Femenino,60,Ávila,D
+C00672,Anita Clementina Ariño Solé,Femenino,28,Almería,B
+C00673,Jose Francisco Rey Asensio,Femenino,35,Teruel,C
+C00674,Goyo Campillo Antón,Masculino,64,Cantabria,C
+C00675,Fabio Hoyos Hoz,Masculino,29,Granada,D
+C00676,Fortunato Verdú Blasco,Masculino,26,Teruel,C
+C00677,Albino Comas Morata,Masculino,27,Vizcaya,A
+C00678,Jose Miguel Polo Mir,Femenino,61,Teruel,D
+C00679,Wilfredo Acedo Ibarra,Masculino,34,Cuenca,A
+C00680,Priscila Nogués-Garriga,Masculino,55,Guipúzcoa,B
+C00681,Pánfilo Pacheco-Berenguer,Masculino,24,Segovia,C
+C00682,Emelina Eufemia Bernad Morante,Masculino,63,Santa Cruz de Tenerife,C
+C00683,Rodrigo Beltrán Gutierrez,Masculino,30,Valencia,A
+C00684,Goyo Pelayo-Hervás,Masculino,57,Ceuta,D
+C00685,Heriberto Enríquez Aznar,Masculino,59,Sevilla,D
+C00686,Luís Valentín-Carbó,Femenino,26,Girona,C
+C00687,Inés Cuéllar Hernández,Femenino,67,Baleares,A
+C00688,Alex Azorin Vara,Femenino,44,Palencia,B
+C00689,Azucena Canet-Barceló,Femenino,19,Cuenca,A
+C00690,Maricruz Cruz Medina,Masculino,22,Santa Cruz de Tenerife,D
+C00691,Concha Catalán Tomé,Masculino,46,Zamora,C
+C00692,Amado del Orozco,Femenino,54,Granada,C
+C00693,Américo Nadal Diéguez,Femenino,55,Palencia,C
+C00694,Alfonso Losa-Parejo,Femenino,36,Cádiz,B
+C00695,Blas Salvà Ávila,Masculino,25,Toledo,B
+C00696,Gisela Abella-Roig,Masculino,65,Badajoz,D
+C00697,Enrique Ramón Leal,Femenino,62,Valencia,A
+C00698,Gloria Pino-Huerta,Masculino,18,Cuenca,A
+C00699,Armida Montesinos Vendrell,Femenino,39,Santa Cruz de Tenerife,A
+C00700,Maricela Reyna Barceló Jódar,Masculino,69,Lugo,B
+C00701,María Dolores Mur Riba,Masculino,34,Castellón,C
+C00702,Onofre Ariño Mora,Masculino,24,Sevilla,D
+C00703,Rogelio Cobos Corominas,Femenino,42,Málaga,D
+C00704,Agustín Martorell Fuentes,Masculino,62,Valladolid,B
+C00705,Chucho Faustino Ponce Gibert,Masculino,21,Melilla,B
+C00706,Inmaculada Pinilla Sevillano,Masculino,53,Granada,C
+C00707,Samuel Sancho Godoy,Masculino,23,Lugo,C
+C00708,Adelia Andrade Pou,Femenino,48,Cantabria,B
+C00709,Daniel Pina Redondo,Femenino,36,Murcia,D
+C00710,Otilia de Peralta,Femenino,61,Álava,C
+C00711,Carlito Bas Ricart,Masculino,56,Zaragoza,C
+C00712,Nélida Ferreras Abad,Femenino,44,Palencia,D
+C00713,Matilde Palmer,Femenino,27,Madrid,C
+C00714,Carla Hervia,Femenino,43,Soria,D
+C00715,Ale Rodríguez Miró,Femenino,36,Teruel,A
+C00716,Rafaela Hernando Cabello,Femenino,56,Ceuta,C
+C00717,Albert Gómez,Femenino,20,Madrid,C
+C00718,Edu Pastor Silva,Masculino,62,Málaga,A
+C00719,Rosalva Aragón Pina,Masculino,30,Huelva,D
+C00720,Victor Manuel Alegre Carbó,Femenino,67,Córdoba,C
+C00721,Edu Beltran Cuéllar,Femenino,45,La Coruña,A
+C00722,Martin Rosell-Carbajo,Femenino,37,Valladolid,D
+C00723,Ildefonso Albero-Borrego,Masculino,45,Cantabria,C
+C00724,Seve Ojeda Rojas,Masculino,25,Huelva,B
+C00725,Eutropio Bonet Espada,Masculino,58,Granada,A
+C00726,Belén Gallart Gálvez,Masculino,56,Pontevedra,D
+C00727,Esther Pomares Castañeda,Femenino,18,Huesca,B
+C00728,Paca Rovira Coloma,Masculino,20,Málaga,D
+C00729,Emelina Aroca Ferrán,Masculino,30,Segovia,B
+C00730,Vidal Barrio Vallés,Femenino,45,La Coruña,B
+C00731,Mohamed Jafet Río Tomé,Femenino,66,Ciudad,A
+C00732,Calixta Garzón-Buendía,Femenino,42,Palencia,A
+C00733,Valero Cerdán Cuevas,Masculino,50,Melilla,B
+C00734,Eva María Tello,Femenino,55,Navarra,A
+C00735,Alejandro Revilla Araujo,Femenino,23,Cuenca,D
+C00736,Lucho Ortuño-Arnal,Masculino,61,Ourense,C
+C00737,Gabriela Ferrán Llano,Femenino,62,Navarra,D
+C00738,Óscar Ibarra Barrena,Femenino,49,Soria,B
+C00739,Rubén Sola,Femenino,62,Navarra,D
+C00740,Édgar Romeu Castilla,Femenino,64,Palencia,B
+C00741,Pedro Medina Collado,Femenino,38,Baleares,D
+C00742,Otilia Gallego Adadia,Masculino,33,Castellón,D
+C00743,Rosa Hervás,Masculino,38,Ciudad,A
+C00744,Bienvenida Tamayo Chamorro,Femenino,28,Badajoz,B
+C00745,Felipe Bertrán Ariño,Femenino,54,Jaén,B
+C00746,Elba del Rueda,Femenino,53,Asturias,C
+C00747,Gustavo de Riquelme,Femenino,52,Alicante,D
+C00748,Vicenta Fernandez Cabo,Femenino,36,Cádiz,D
+C00749,Anna Teruel Vargas,Masculino,37,Toledo,C
+C00750,Ricarda Camino Caro,Femenino,35,Badajoz,B
+C00751,Pelayo Pascual Barroso Ariza,Masculino,64,Cantabria,D
+C00752,Kike Fuertes Clavero,Femenino,58,Cuenca,C
+C00753,Ani Criado Amador,Femenino,66,Albacete,C
+C00754,Ariel Goñi Rocamora,Femenino,31,Lugo,C
+C00755,Amarilis Ileana Barriga Domínguez,Masculino,32,Girona,D
+C00756,Rosalina Suarez Coloma,Femenino,48,Cádiz,B
+C00757,Juliana Amat,Masculino,18,Guadalajara,B
+C00758,Catalina Cantón Cárdenas,Femenino,20,Santa Cruz de Tenerife,C
+C00759,Cristian Cantón Nicolás,Femenino,33,Burgos,C
+C00760,Teodora Córdoba Garzón,Masculino,40,Pontevedra,B
+C00761,Modesto Márquez Vargas,Masculino,28,Cuenca,C
+C00762,Martin Maza-Puerta,Femenino,29,Jaén,C
+C00763,Ángel Cañete,Femenino,27,Santa Cruz de Tenerife,B
+C00764,Maricela Font Arranz,Femenino,49,Badajoz,D
+C00765,Luis Ángel Muro Nadal,Masculino,33,Guipúzcoa,C
+C00766,Haydée Pellicer Rosado,Masculino,25,Ourense,D
+C00767,Cebrián Chaves-Guijarro,Femenino,55,Murcia,C
+C00768,Albino Aramburu,Masculino,29,Albacete,C
+C00769,Curro del Rosselló,Femenino,41,Pontevedra,C
+C00770,Aurelio Badía Larrea,Femenino,45,Murcia,A
+C00771,Cristina Guillen,Femenino,25,Vizcaya,D
+C00772,Sebastián de Conde,Masculino,45,Baleares,D
+C00773,Genoveva Yolanda Roman Nebot,Masculino,53,La Rioja,C
+C00774,Ovidio Pol Barceló,Masculino,43,Zamora,B
+C00775,Anastasia de Arcos,Masculino,25,Ceuta,C
+C00776,Raquel Gabaldón-Cortina,Femenino,67,Las Palmas,A
+C00777,Joel Nieto Yáñez,Masculino,45,Ávila,C
+C00778,Selena Arregui Camacho,Femenino,45,Segovia,A
+C00779,Ildefonso Buendía-Sola,Masculino,54,Teruel,C
+C00780,Brunilda Perez Sans,Masculino,58,Melilla,D
+C00781,José Ángel Lladó Vendrell,Masculino,53,Ciudad,C
+C00782,Francisco Jose Guardiola Baró,Femenino,44,Huelva,D
+C00783,Xavier Jurado,Masculino,34,Cáceres,B
+C00784,Eustaquio Ayala Berrocal,Masculino,26,Cantabria,B
+C00785,Elisabet Aguiló Parejo,Femenino,50,Valladolid,C
+C00786,Tomás Gisbert Carbonell,Femenino,37,Cádiz,C
+C00787,Che Fajardo Sáenz,Femenino,30,Zaragoza,B
+C00788,Tere Samper Cid,Femenino,45,Lugo,A
+C00789,Geraldo Tenorio Manzano,Femenino,65,Ávila,B
+C00790,Cristóbal Esteban Franco,Femenino,46,Lleida,B
+C00791,Nuria Peiró Maldonado,Masculino,30,Guipúzcoa,A
+C00792,Daniela Marcos Requena,Femenino,63,Zamora,B
+C00793,Milagros Tello-Peralta,Masculino,52,Ciudad,B
+C00794,Nidia Pellicer Saez,Femenino,23,La Rioja,A
+C00795,Maxi Guardia Ribes,Masculino,35,Melilla,A
+C00796,Manolo Milla Gallardo,Masculino,68,Sevilla,D
+C00797,Jose Antonio Lucena Ferrán,Masculino,22,Guadalajara,C
+C00798,Fabiola Borrego Dueñas,Femenino,64,Almería,D
+C00799,Luna Blazquez Pozo,Femenino,42,Barcelona,A
+C00800,Aureliano Benet Mata,Femenino,19,Sevilla,B
+C00801,Amor Cuevas-Laguna,Femenino,27,Santa Cruz de Tenerife,A
+C00802,Galo Agudo Azorin,Masculino,47,Huesca,B
+C00803,Jenny Sanchez,Femenino,67,Valladolid,D
+C00804,Dora del Sabater,Femenino,62,Palencia,D
+C00805,Luciano del Carreño,Femenino,22,Zaragoza,D
+C00806,Rogelio Samper,Masculino,50,León,B
+C00807,Úrsula Riquelme Coca,Femenino,18,Huesca,C
+C00808,Joaquín de Robledo,Femenino,35,Lleida,C
+C00809,Pepita del Sancho,Femenino,49,Toledo,C
+C00810,Alejandro Alberto Bautista,Femenino,64,Salamanca,A
+C00811,Domitila Juanita Quintero Ochoa,Femenino,66,Córdoba,A
+C00812,Liliana Jara Giner,Femenino,28,Pontevedra,B
+C00813,Octavio Acero Rey,Femenino,38,Zaragoza,A
+C00814,Iker Castañeda,Masculino,43,Almería,B
+C00815,Lope Romero,Masculino,42,Albacete,D
+C00816,Nico Rueda Diego,Femenino,39,Almería,B
+C00817,Pancho Daza Zorrilla,Masculino,44,Girona,A
+C00818,Emilio Grau Bas,Femenino,66,Ciudad,D
+C00819,Macaria Cabezas Gárate,Masculino,30,Cáceres,D
+C00820,Paloma Barral Moya,Femenino,50,Cádiz,B
+C00821,Sabina Dávila Bernal,Femenino,51,Lugo,C
+C00822,Alonso de Pellicer,Femenino,58,Barcelona,A
+C00823,Manu Pavón-Frutos,Femenino,52,Las Palmas,A
+C00824,Samuel Sacristán Peñalver,Masculino,18,Badajoz,C
+C00825,Saturnina del Galván,Femenino,38,Huesca,A
+C00826,Darío Moya Fábregas,Masculino,65,Navarra,C
+C00827,Virgilio Fabregat Gimeno,Masculino,23,Navarra,C
+C00828,Rufina Mendez Lozano,Femenino,45,Ciudad,D
+C00829,Nazario Beltran,Masculino,34,Segovia,D
+C00830,Amaro Cánovas Carbonell,Femenino,22,Cuenca,B
+C00831,Gastón Bertrán Diego,Masculino,48,Baleares,D
+C00832,Noelia de Almazán,Femenino,22,Cuenca,C
+C00833,Wilfredo Figueroa Muñoz,Masculino,55,Toledo,B
+C00834,Heliodoro Armengol,Masculino,20,Ourense,A
+C00835,Gabino del Falcó,Femenino,40,Murcia,C
+C00836,Román Doménech Tejedor,Masculino,54,Salamanca,B
+C00837,Victoriano Pérez Pardo,Masculino,54,Huelva,D
+C00838,Faustino Robles Uribe,Femenino,27,Castellón,C
+C00839,Teresita de Luís,Femenino,27,Zamora,B
+C00840,Arsenio Corominas Pastor,Femenino,36,Ciudad,A
+C00841,Eligio Jaime Pellicer Cal,Femenino,34,Las Palmas,C
+C00842,Reyna Lopez Ferrández,Masculino,38,Cádiz,C
+C00843,María Roca Araujo,Femenino,31,Lugo,B
+C00844,Jose Luis Sevilla Mesa,Femenino,26,Soria,B
+C00845,Susana Abad-Rey,Femenino,63,Tarragona,D
+C00846,Trinidad Alicia Melero Frutos,Femenino,18,Cádiz,D
+C00847,Serafina del Saez,Masculino,68,Madrid,C
+C00848,Saturnina Peralta Velázquez,Masculino,62,Zamora,A
+C00849,Sebastián Carnero-Solé,Masculino,30,Valladolid,D
+C00850,Herberto Sebastián Hurtado,Femenino,21,Toledo,A
+C00851,Graciela Ripoll Piñeiro,Masculino,18,Lleida,B
+C00852,Plinio Arcos Villa,Masculino,66,Melilla,B
+C00853,Rufino Talavera Salmerón,Femenino,57,Baleares,D
+C00854,Claudia Salvà Ramos,Masculino,49,Teruel,C
+C00855,Eva Peiró,Masculino,51,Tarragona,B
+C00856,Victor Manuel Cobo Morante,Femenino,45,Valladolid,A
+C00857,Coral Rosa Vega,Masculino,48,León,C
+C00858,Liliana Rico,Femenino,25,Huelva,D
+C00859,Rufino Jeremías Toledo Verdugo,Masculino,56,Málaga,B
+C00860,Sandra Gallart Mayol,Masculino,43,Valencia,D
+C00861,Ismael Coello Baeza,Femenino,51,Alicante,C
+C00862,Xiomara Mendoza Marí,Masculino,20,Castellón,C
+C00863,Ricardo Viña García,Femenino,67,Las Palmas,C
+C00864,Íngrid Roig-Blanch,Femenino,29,Guadalajara,A
+C00865,Zoraida Pacheco-Cadenas,Femenino,18,Ceuta,C
+C00866,Jose Antonio Baró Izaguirre,Femenino,61,Álava,C
+C00867,Amando Quesada Mariño,Masculino,22,Lleida,B
+C00868,Baudelio Zamora,Masculino,47,Valencia,A
+C00869,Benigna Hoz Avilés,Femenino,47,Granada,A
+C00870,Teófilo Mancebo,Masculino,34,Granada,D
+C00871,Lucas Gargallo Viña,Masculino,65,Tarragona,C
+C00872,Lucía Hervia Coca,Masculino,64,León,B
+C00873,Darío Quirós Isern,Masculino,40,Zamora,D
+C00874,Gerardo Rios Espinosa,Femenino,32,Zaragoza,C
+C00875,Severino del Pineda,Masculino,54,Sevilla,A
+C00876,Teodora Cabello Pozo,Femenino,38,Baleares,C
+C00877,Ascensión Dalmau,Masculino,31,Madrid,C
+C00878,Germán de Madrigal,Masculino,19,Málaga,B
+C00879,Luis Caballero Márquez,Femenino,28,Álava,B
+C00880,Macaria Bayona,Femenino,68,Cuenca,B
+C00881,Octavia Toro Villa,Femenino,56,Cantabria,D
+C00882,Cristina Valenciano Gimenez,Femenino,55,Lleida,B
+C00883,Amaro Mármol-Pintor,Masculino,51,Ávila,D
+C00884,Zacarías Mendizábal Martin,Femenino,55,Huesca,C
+C00885,Jeremías Fiol Lopez,Femenino,67,Ávila,D
+C00886,Leandra Manzanares Hervás,Masculino,51,Jaén,D
+C00887,Esther Montserrat Mateos,Masculino,35,Lugo,B
+C00888,Ulises Paz Montoya,Femenino,47,Ávila,B
+C00889,Álvaro Gargallo Garcia,Femenino,32,Guipúzcoa,A
+C00890,José Ángel Carbonell Chaparro,Femenino,44,Córdoba,D
+C00891,Reinaldo Cardona Verdú,Femenino,68,Cáceres,C
+C00892,Carlito Morán Perelló,Femenino,51,Vizcaya,A
+C00893,Emigdio Llobet Borrell,Femenino,69,Badajoz,A
+C00894,Cloe del Arroyo,Femenino,55,Jaén,A
+C00895,Fabio Sánchez Santamaría,Masculino,50,Zaragoza,B
+C00896,Alma Larrea Delgado,Femenino,41,Murcia,B
+C00897,Elvira del Sáez,Femenino,32,Guadalajara,B
+C00898,Amando Bernad Sarabia,Masculino,47,Asturias,C
+C00899,Marianela Peiró Moles,Masculino,59,Albacete,D
+C00900,Evelia Rosselló Tormo,Femenino,68,Zaragoza,A
+C00901,Yago Casal,Femenino,34,La Coruña,B
+C00902,Marisa Carbó Casals,Femenino,22,Zaragoza,D
+C00903,Dorita Castilla Pedrero,Femenino,46,Álava,A
+C00904,Berta Marti Abascal,Masculino,21,La Rioja,D
+C00905,Fátima Gallart Valenzuela,Femenino,27,Navarra,A
+C00906,Ibán Duarte-Gil,Femenino,34,Castellón,D
+C00907,Leandra Ricarda Marí Sala,Masculino,27,Álava,B
+C00908,Asdrubal Echeverría Araujo,Masculino,34,Huesca,D
+C00909,Lalo Álamo Lastra,Femenino,37,Málaga,D
+C00910,Juan Antonio Cortes-Tomas,Femenino,41,Cádiz,A
+C00911,Abril del Pascual,Masculino,22,Ceuta,D
+C00912,Marcia Zamorano Ferrández,Femenino,51,Melilla,C
+C00913,Mireia Martorell Toledo,Masculino,23,Huelva,A
+C00914,Marianela Casals Vila,Masculino,19,Barcelona,D
+C00915,Rosenda Asunción Prieto Tolosa,Femenino,30,Lleida,C
+C00916,Tecla Jove Dalmau,Masculino,60,Asturias,A
+C00917,Otilia Pedrosa,Masculino,60,Lleida,B
+C00918,Verónica Molins Torre,Masculino,65,Huesca,A
+C00919,Apolonia Mínguez Alarcón,Femenino,28,Cádiz,A
+C00920,Victor Rosa Tormo,Femenino,68,Barcelona,D
+C00921,Soledad Girón Muñoz,Masculino,64,Santa Cruz de Tenerife,C
+C00922,Elisabet Cañellas Burgos,Femenino,40,Jaén,A
+C00923,Leire Arce-Puga,Masculino,33,Teruel,A
+C00924,Tito Sanz Noriega,Masculino,48,Jaén,A
+C00925,Nieves Borrás Aramburu,Femenino,28,Barcelona,D
+C00926,Jesús Barrios-Rebollo,Femenino,33,Cantabria,A
+C00927,Luis Miguel Domínguez-Sacristán,Femenino,25,Cuenca,C
+C00928,Aarón Comas Baró,Masculino,21,Granada,D
+C00929,Gilberto Segura Campo,Masculino,57,Cuenca,B
+C00930,Malena Oliveras Donoso,Masculino,21,Navarra,B
+C00931,Clementina Blazquez Saura,Femenino,42,Murcia,D
+C00932,Luz Castro Clavero,Femenino,20,Las Palmas,C
+C00933,Melisa Giralt,Masculino,49,Badajoz,D
+C00934,Juan Pablo Sarabia Cantero,Femenino,20,Navarra,D
+C00935,Xavier Martín Sans Reguera,Femenino,44,Zaragoza,D
+C00936,Raúl Álvaro-Prats,Femenino,46,Guipúzcoa,D
+C00937,Sigfrido del Alegria,Femenino,49,Álava,A
+C00938,Esther López Farré,Masculino,67,Tarragona,B
+C00939,Macario Manzanares Menendez,Femenino,68,Alicante,C
+C00940,Oriana Lucena Sarmiento,Masculino,36,Huelva,A
+C00941,Jerónimo Herrero Pi,Masculino,38,Melilla,B
+C00942,Lisandro Roda Vilalta,Masculino,22,Teruel,D
+C00943,Sebastián Lamas Espada,Femenino,35,Ciudad,B
+C00944,Leonor Mármol Adán,Femenino,45,Almería,B
+C00945,Encarnita López Cabrera,Masculino,59,Lleida,A
+C00946,Marianela Carballo Cisneros,Femenino,39,Girona,A
+C00947,Danilo Bosch,Masculino,38,Valencia,C
+C00948,Isaías Cirino Ledesma Manzano,Femenino,23,Cáceres,D
+C00949,Juan José Agustín Vigil,Masculino,18,Lleida,D
+C00950,Albert del Carranza,Femenino,22,Cuenca,D
+C00951,Chema Moraleda Vergara,Femenino,58,Ciudad,B
+C00952,Fabiola de Gordillo,Femenino,29,Ávila,B
+C00953,María Sáez Rico,Femenino,43,Ourense,D
+C00954,Macaria Vilaplana Baeza,Femenino,63,Almería,C
+C00955,Amado Rubio Farré,Masculino,51,Navarra,B
+C00956,Fito Sierra-Juliá,Masculino,66,La Coruña,C
+C00957,Edu Mora Colomer,Femenino,31,Zaragoza,B
+C00958,Bernabé Murillo Rosales,Masculino,43,Murcia,A
+C00959,Erasmo Alcaraz Torres,Femenino,62,Toledo,A
+C00960,Felipe Ramos Seco,Masculino,44,Santa Cruz de Tenerife,D
+C00961,Eligia Garmendia Alcolea,Masculino,26,Granada,A
+C00962,Encarnacion Sáez Lladó,Femenino,43,Alicante,B
+C00963,Che Villar Ferrándiz,Femenino,64,Huelva,B
+C00964,Nicolasa Miguel-Ordóñez,Femenino,39,Huelva,A
+C00965,Teófila Morcillo Antúnez,Masculino,64,Castellón,A
+C00966,Sofía Cobo-Gonzalo,Masculino,47,Cáceres,A
+C00967,Miguela Manso Moll,Masculino,60,La Rioja,D
+C00968,Nacho Piñeiro Priego,Masculino,65,Albacete,A
+C00969,Samu Castañeda,Femenino,34,Badajoz,B
+C00970,Alcides Águila Palacios,Femenino,43,León,A
+C00971,Lucas Correa Casanovas,Masculino,53,Baleares,D
+C00972,Carmela Arnaiz-Mur,Masculino,18,Baleares,D
+C00973,Estefanía Duarte,Masculino,25,Soria,B
+C00974,Olimpia Larrañaga Gordillo,Masculino,66,Teruel,B
+C00975,Eliseo Calleja,Femenino,52,Burgos,A
+C00976,Ariadna Bayo Juliá,Femenino,69,Baleares,B
+C00977,Bienvenida Luz Royo,Femenino,32,Cáceres,C
+C00978,Urbano Guitart Sanmiguel,Femenino,64,Vizcaya,B
+C00979,Leocadio Marco Zurita,Masculino,39,Burgos,C
+C00980,Leocadia Blanch-Calvo,Femenino,31,Albacete,C
+C00981,Marcos Verdú Fuertes,Masculino,43,Baleares,B
+C00982,Pancho Hierro Ramírez,Femenino,45,Soria,C
+C00983,Ani Castelló Ramírez,Femenino,40,Albacete,B
+C00984,Teobaldo Coll-Cáceres,Femenino,31,Guipúzcoa,B
+C00985,Fátima Ferrero Morera,Masculino,41,Córdoba,D
+C00986,Alfredo Gargallo Báez,Femenino,19,Tarragona,C
+C00987,Juan Francisco Montaña-Gárate,Masculino,62,Ávila,C
+C00988,Pastor Palacios Quiroga,Femenino,43,Málaga,A
+C00989,Rebeca Aura Martín Tudela,Femenino,31,Santa Cruz de Tenerife,B
+C00990,Nicanor Bustos Bermúdez,Masculino,68,Valencia,D
+C00991,Eligio del Amaya,Femenino,24,Palencia,D
+C00992,Renato del Jover,Masculino,20,Badajoz,A
+C00993,Ezequiel Jordá Bellido,Femenino,64,Cantabria,C
+C00994,Óscar Mendez-Carpio,Femenino,40,Sevilla,D
+C00995,Ezequiel Gallego Fiol,Masculino,63,Girona,C
+C00996,Matilde Ramos Pascual,Femenino,60,Guipúzcoa,D
+C00997,Perla Malo Anguita,Femenino,64,Murcia,D
+C00998,Narcisa Vara Tejedor,Masculino,62,Madrid,B
+C00999,Isaura Martinez Pera,Masculino,35,Salamanca,C
+C01000,Elodia Leiva-Verdejo,Femenino,55,Las Palmas,D
